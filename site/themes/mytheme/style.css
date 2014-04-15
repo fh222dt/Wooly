@@ -1,0 +1,6 @@
+/**
+* Description: Sample theme for site which extends the Wooly grid-theme.
+*/
+@import url(../../../themes/grid/style.css);
+
+/*Put your own css-code here. Will override Wooly-theme*/
